@@ -1,7 +1,7 @@
 firebase.initializeApp({
-    apiKey: "AIzaSyDCSTbOcvRrXl1jQD34l9ZZqznjDtboYlU",
-    authDomain: "todolist-cb5d1.firebaseapp.com",
-    projectId: "todolist-cb5d1",
+    apiKey: "",
+    authDomain: ".com",
+    projectId: "-",
 })
 
 const db = firebase.firestore();
